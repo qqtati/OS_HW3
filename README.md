@@ -43,8 +43,6 @@
     читателей может быть несколько
 
 ### 6-7
-
-1. Клиент монитор:
 - компилировать
     gcc library.c -o library -lrt -lpthread
     gcc reader.c -o reader
